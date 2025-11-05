@@ -9,6 +9,25 @@
 
 Java handles standard input and invokes the Python ML script. The Python script returns a JSON response that Java prints on the console.
 
+
+
+---
+
+# 🎓 Student Performance Predictor CLI
+
+This project combines **Advanced Java and Python** to predict whether a student will **PASS or FAIL** based on internal marks, external marks, and study hours.
+
+---
+
+## ⚙️ Tech Stack
+- **Java (CLI Frontend)**
+- **Python (Machine Learning Backend using scikit-learn)**
+- **Integration via System Command Line**
+
+---
+
+## 📁 Project Structure
+
 ---
 
 ## Project files

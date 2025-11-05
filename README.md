@@ -39,6 +39,16 @@ This project combines **Advanced Java and Python** to predict whether a student 
 - `.github/workflows/ci.yml` — optional CI that runs tests and compiles Java
 
 ---
+👨‍🏫 Output Example
+Enter Internal Marks: 75
+Enter External Marks: 80
+Enter Study Hours: 6
+
+=== Prediction Result ===
+Prediction : PASS
+Confidence : 92.34%
+
+---
 
 ## Setup (Windows / macOS / Linux)
 
